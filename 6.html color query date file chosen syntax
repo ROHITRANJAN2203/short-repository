@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>TYPE YOUR QUERY</p>
+    <textarea name="" id="" cols="30" rows="10" placeholder="TYPE HERE"></textarea>
+    <br>
+    pick color : <input type="color" name="" id=""><br><br>
+    date : <input type="date" name="" id=""<br><br>
+    <br>
+    <input type="file" name="" id="">
+</body>
+</html>
