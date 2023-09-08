@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> HTML FORM LINK</h1>
+    <form action="thanku.html" method="GET">
+    <FORM>
+        <label for="USER NAME">USERNAME: </label>
+        <input type="text" id="USERNAME" placeholder="USER NAME" required> <br><br>
+
+        <label for="PASSWORD">PASSWORD: </label>
+        <input type="PASSWORD" id="PASSWORD" placeholder="YOUR PASSWORD" required> <br><br>
+
+        <label for="EMAIL ID">EMAIL ID: </label>
+        <input type="EMAIL ID" id="EMAIL ID" placeholder="YOUR EMAIL ID" required> <br><br>
+
+
+        <p>SELECT YOUR GENDER</p>
+        <label for="MALE">MALE</label>
+        <input type="radio" name="gender" id="MALE" value="MALE"> <br>
+        <label for="FEMALE">FEMALE</label>
+        <input type="radio" name="gender" id="MALE" value="FEMALE"> <br>
+        <label for="TRANSGENDER">TRANSGENDER</label>
+        <input type="radio" name="gender" id="TRANSGENDER" value=""TRANSGENDER> <br><br>
+     <input type="SUBMIT" value="SIGN IN">
+    </FORM>
+</body>
+</html>
