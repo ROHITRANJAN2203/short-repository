@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+ <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100;1,300&display=swap" rel="stylesheet"> 
+    <title>Different ways to apply css</title>  -->
+    <!-- <style>
+        h1{
+                    color:green
+        }
+    </style> -->
+</head>
+<body>
+    <!-- <h1 style="color:green"> HEADING</h1> -->
+    <h1>Main heading</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore eligendi, illum quisquam assumenda minus voluptates et sint soluta maiores. Cum doloremque dolorum exercitationem, magni, laborum a officia at neque itaque, ullam accusantium minima incidunt optio fugit eum distinctio possimus hic quod. Amet eaque expedita eius, recusandae neque possimus voluptatum quas esse assumenda eum veniam molestiae molestias voluptate ipsum numquam temporibus quam sunt animi maiores aliquid vitae. Veniam omnis minus, facilis consequuntur ullam maiores deleniti eos quas fuga molestiae dignissimos eum error iure ad provident cupiditate ea commodi fugit incidunt voluptas sed sunt! Sed quidem dolore amet voluptas assumenda doloremque ad perferendis. Illo perspiciatis deleniti laudantium cumque officiis quasi ipsam in. Dicta aliquam blanditiis, nemo accusantium maxime impedit possimus dolorum? Magni culpa deserunt tenetur unde iusto nihil sit facilis eligendi voluptatum beatae eos repudiandae id obcaecati dolorem consequuntur enim corrupti voluptatibus necessitatibus nulla, ullam qui placeat repellat voluptas! Illo quae eligendi tenetur dicta, id distinctio consectetur voluptatibus itaque tempora velit magni quasi, a cupiditate ipsam nesciunt numquam mollitia officiis odio, dolore optio. Totam quisquam fugit saepe veniam sed necessitatibus labore accusamus, eos est reprehenderit, distinctio, corrupti nisi dignissimos dolorum ipsum quo officia modi voluptatem. Facere sequi pariatur corporis, mollitia ipsum ducimus?</p>
+    
+</body>
+</html>
+
+.................................................................................................................................................................................................
+
+style.css page link 
+
+......................................................................................................................................................................................................
+h1{
+    /*color:blue*/
+     color:#e8e5e5;  
+     background-color:#e62e09;
+     /* 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f,g */
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
