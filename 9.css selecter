@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>css selector</title>
+</head>
+<body>
+   <div id="main-heading">
+    <h1>rohit ranjan</h1>
+   </div>
+   <div class="main-section">
+    <h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis vel quos cum. Omnis veniam mollitia suscipit ipsa voluptate repudiandae quos nihil accusantium, molestias iure temporibus inventore nobis, distinctio placeat nostrum ad nam obcaecati fugiat itaque rerum rem sint repellendus corrupti. Minus atque nostrum ex corrupti, vitae perspiciatis delectus reprehenderit quaerat deserunt fugiat, maxime nemo odit. Impedit earum pariatur magnam deleniti adipisci similique asperiores molestiae quaerat iure vel. Esse laboriosam quibusdam maiores nisi similique, porro blanditiis ab illo, earum repudiandae dignissimos. Similique excepturi explicabo velit, perspiciatis ex accusantium sunt reprehenderit blanditiis itaque distinctio aspernatur error necessitatibus sed cumque et repellat ipsam earum maxime libero quidem. Corporis quae ullam voluptate sequi veniam earum minima ad ex nesciunt molestiae necessitatibus distinctio laborum hic dicta cupiditate inventore quo cum voluptatum qui ducimus molestias, non unde. Ut dolores quisquam sunt nobis voluptatibus, totam quidem officia, eveniet quibusdam nihil quo numquam beatae adipisci laboriosam est ea vero quia neque sapiente! Recusandae, doloremque possimus excepturi ipsam delectus ab quisquam impedit quos eos dolores sint dolore commodi officiis placeat tenetur numquam facere sit. Dolores voluptate facere magnam ex tempora. Sed voluptas, iure ipsa dicta, mollitia id esse accusantium excepturi, a quas voluptatem! Tempora autem omnis iure similique consectetur.</p>
+    </h2>
+   </div>
+    
+</body>
+</html>
+..........................................................................style.css
+h1 {
+    /* color:brown; */
+    color: #f3f3f3;
+    background-color: rgb(248, 8, 8);
+    
+}
+.main-section{
+    background-color: #b6cff8;
+
+}
